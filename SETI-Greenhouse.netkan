@@ -7,9 +7,9 @@
       { "name" : "ModuleManager" }
     ],
     "install" : [
-      { 
+    	{ 
         "file" : "SETIgreenhouse",
-				"install_to" : "GameData" 
-			} 
-		]
+	"install_to" : "GameData" 
+	} 
+    ]
 }
